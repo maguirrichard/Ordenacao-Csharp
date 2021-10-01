@@ -1,0 +1,16 @@
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.csproj.AssemblyReference.cache
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.AssemblyInfo.cs
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.exe
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.deps.json
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.runtimeconfig.json
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.dll
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\ref\Principal.dll
+C:\Users\Richard\Desktop\Ordenação C#\bin\Debug\net5.0\Principal.pdb
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.dll
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\ref\Principal.dll
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.pdb
+C:\Users\Richard\Desktop\Ordenação C#\obj\Debug\net5.0\Principal.genruntimeconfig.cache
